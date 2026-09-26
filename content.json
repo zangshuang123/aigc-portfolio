@@ -1,0 +1,347 @@
+{
+  "heroKicker": "AIGC Director & Operator",
+  "heroTitle": {
+    "l1": "AI 视觉",
+    "l2": "编导作品集"
+  },
+  "heroVideo": "media/01_人像与生活方式/斜光.mp4",
+  "heroStats": [
+    {
+      "num": "16",
+      "label": "视频作品",
+      "en": "FILMS"
+    },
+    {
+      "num": "6",
+      "label": "题材覆盖",
+      "en": "GENRES"
+    },
+    {
+      "num": "3",
+      "label": "年 AIGC 经验",
+      "en": "YEARS"
+    }
+  ],
+  "heroSlogan": {
+    "lead": "不做炫技短片，只做能被看完、能被转化的内容。",
+    "highlight": "35mm 质感",
+    "tail": "是底线，数据与信任是结果。"
+  },
+  "profile": {
+    "name": "臧爽",
+    "enName": "YOUR NAME",
+    "role": "AIGC 编导 / 运营",
+    "enRole": "AIGC DIRECTOR &amp; OPERATOR",
+    "avatar": "media/uploads/1790233284130-微信图片_20260924150048_148_1.png",
+    "avatarAlt": "个人形象",
+    "aboutLead": "<span style=\"font-size: 46px; font-weight: 700;\">臧爽</span> <span style=\"font-size: 32px; font-weight: 700;\">AIGC 编导 / 运营</span>",
+    "intro": [
+      "<span style=\"color: rgb(255, 79, 216); font-size: 17px;\"><span style=\"font-weight: 700;\"><span style=\"color: rgb(255, 79, 216); font-size: 19px; font-weight: 700;\"><span style=\"color: rgb(255, 79, 216); font-size: 21px;\">做 AI 视</span></span></span></span>觉内容的第六年，测试用文本。",
+      "从选题拆解到分镜脚本，从 Midjourney 生图到可灵 / Runway 生成视频，再到剪辑调色与投放复盘，一条线跑通。",
+      "不追炫技，只认转化：素材真实可信、镜头有说服力、内容能被看完。"
+    ],
+    "contacts": [
+      {
+        "label": "邮箱",
+        "value": "1710415502@qq.com",
+        "link": "mailto:1710415502@qq.com"
+      },
+      {
+        "label": "微信",
+        "value": "17886566252",
+        "link": ""
+      },
+      {
+        "label": "电话",
+        "value": "17886566252",
+        "link": "tel:13800000000"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "num": "16",
+      "unit": "条",
+      "label": "视频作品",
+      "en": "FILMS"
+    },
+    {
+      "num": "6",
+      "unit": "类",
+      "label": "题材覆盖",
+      "en": "GENRES"
+    },
+    {
+      "num": "528",
+      "unit": "MB",
+      "label": "成片资产",
+      "en": "ASSETS"
+    },
+    {
+      "num": "—",
+      "unit": "",
+      "label": "累计播放（待补）",
+      "en": "VIEWS"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2024 - 现在",
+      "title": "AIGC 视觉编导",
+      "place": "自由职业 / 内容工作室",
+      "desc": "负责 AI 短片从选题、脚本、生图到剪辑成片的全流程，输出商业口播、品牌短片与信息流素材。"
+    },
+    {
+      "year": "2023 - 2024",
+      "title": "短视频运营",
+      "place": "（公司名占位）",
+      "desc": "搭建账号内容矩阵，跑通选题—投放—复盘闭环，沉淀出可复用的提示词与脚本模板。"
+    },
+    {
+      "year": "2022 - 2023",
+      "title": "内容 / 编导入门",
+      "place": "（公司名占位）",
+      "desc": "从传统剪辑切入 AI 生成，建立以 35mm 质感为基准的画面审美与技术流程。"
+    }
+  ],
+  "projects": [
+    {
+      "no": "01",
+      "title": "斜光",
+      "en": "SLANT LIGHT",
+      "cat": "AI 竖屏短片",
+      "file": "media/01_人像与生活方式/斜光.mp4",
+      "tags": [
+        "AI 生成",
+        "质感广告"
+      ],
+      "desc": "一束斜光，胶片颗粒 × 手持呼吸感，做一条不说话的质感广告。",
+      "color": "pink",
+      "size": "tall"
+    },
+    {
+      "no": "02",
+      "title": "身随鼓点&nbsp;",
+      "en": "ON BEAT」",
+      "cat": "AI舞者短片",
+      "file": "media/uploads/1790238026647-伞舞.mp4",
+      "tags": [
+        "AI",
+        "律动",
+        "呼吸感"
+      ],
+      "desc": "一拍一转身，卡点即情绪 ——AI 生成舞者，跳出真人的律动与停顿。",
+      "color": "purple",
+      "size": "short"
+    },
+    {
+      "no": "03",
+      "title": "旅行VLOG",
+      "en": "TRAVEL VLOG",
+      "cat": "生活方式",
+      "file": "media/uploads/1790239001504-9月23日.mp4",
+      "tags": [
+        "VLOG",
+        "公路片",
+        "旅程叙事"
+      ],
+      "desc": "",
+      "color": "orange",
+      "size": "short"
+    },
+    {
+      "no": "04",
+      "title": "",
+      "en": "<span style=\"font-size: 23px; color: rgb(247, 242, 255);\">FPV 视角</span>",
+      "cat": "AI FPV",
+      "file": "media/uploads/1790231944910-视频节点-4.mp4",
+      "tags": [
+        "FPV穿越",
+        "AI生成"
+      ],
+      "desc": "FPV 视角钻进草丛，跟着一只猫，把整个巨物丛林走一遍。",
+      "color": "cream",
+      "size": "tall"
+    },
+    {
+      "no": "06",
+      "title": "消夏",
+      "en": "SUMMER ESCAPE",
+      "cat": "国风短片",
+      "file": "media/uploads/1790239452322-荷塘.mp4",
+      "tags": [
+        "夏日",
+        "纪实",
+        "汉服"
+      ],
+      "desc": "荷风穿过袖口 —— 不解说，只把夏天放慢。",
+      "color": "pink",
+      "size": "tall"
+    },
+    {
+      "no": "07",
+      "title": "商业信息流",
+      "en": "IN-FEED ADS",
+      "cat": "信息流",
+      "file": "media/uploads/1790238892195-信息流.mp4",
+      "tags": [
+        "商业",
+        "爆款信息流"
+      ],
+      "desc": "",
+      "color": "pink",
+      "size": "tall"
+    },
+    {
+      "no": "08",
+      "title": "AI口播",
+      "en": "AI AVATAR",
+      "cat": "商业口播",
+      "file": "media/uploads/1790240176999-数字人医美口播.mp4",
+      "tags": [
+        "口播获客",
+        "客源转化"
+      ],
+      "desc": "",
+      "color": "pink",
+      "size": "tall"
+    },
+    {
+      "no": "09",
+      "title": "自然口播",
+      "en": "**LIVE-ACTION HOST**",
+      "cat": "商业口播",
+      "file": "media/uploads/1790240403038-留学.mp4",
+      "tags": [
+        "真人出镜",
+        "原生"
+      ],
+      "desc": "",
+      "color": "pink",
+      "size": "tall"
+    },
+    {
+      "no": "10",
+      "title": "自然访谈式",
+      "en": "**CASUAL CHAT**NEW MODULE",
+      "cat": "商业口播",
+      "file": "media/uploads/1790241354284-9月8日拆迁.mp4",
+      "tags": [
+        "访谈式口播",
+        "真人待补充"
+      ],
+      "desc": "",
+      "color": "pink",
+      "size": "tall"
+    }
+  ],
+  "strengths": [
+    {
+      "no": "01",
+      "title": "AI 视觉编导",
+      "en": "AI VISUAL DIRECTION",
+      "desc": "把 35mm 胶片质感当基准：细颗粒、高宽容度、自然动态模糊。镜头先立住，再谈生成。",
+      "tags": [
+        "Midjourney",
+        "可灵",
+        "Runway"
+      ]
+    },
+    {
+      "no": "02",
+      "title": "爆款内容策划",
+      "en": "CONTENT STRATEGY",
+      "desc": "拆解对标、量化钩子结构，把选题从“感觉能火”变成有依据的判断。",
+      "tags": [
+        "选题拆解",
+        "脚本",
+        "数据复盘"
+      ]
+    },
+    {
+      "no": "03",
+      "title": "提示词工程",
+      "en": "PROMPT ENGINEERING",
+      "desc": "沉淀可复用的提示词模板：锁脸、锁光、锁风格，让批量产出不飘。",
+      "tags": [
+        "锁脸",
+        "光场统一",
+        "风格模板"
+      ]
+    },
+    {
+      "no": "04",
+      "title": "短视频运营",
+      "en": "SHORT VIDEO OPS",
+      "desc": "从发布节奏到评论区承接，跑通内容—流量—私域的完整闭环。",
+      "tags": [
+        "涨粉",
+        "完播率",
+        "私域承接"
+      ]
+    },
+    {
+      "no": "05",
+      "title": "剪辑与调色",
+      "en": "EDIT & COLOR",
+      "desc": "曲线变速、二次构图、分层调色，节奏卡在呼吸点上而不是卡在转场上。",
+      "tags": [
+        "曲线变速",
+        "调色",
+        "音画"
+      ]
+    },
+    {
+      "no": "06",
+      "title": "商业转化",
+      "en": "COMMERCIAL",
+      "desc": "口播、信息流、品牌短片都能接，交付标准对齐投放端的真实要求。",
+      "tags": [
+        "数字人",
+        "信息流",
+        "品牌"
+      ]
+    }
+  ],
+  "outroTitle": {
+    "l1": "聊聊下一条",
+    "l2": "爆款短片"
+  },
+  "outroNote": "长期承接 AI 竖屏短片、商业口播、信息流素材与短剧内容。带题目和预算来聊，效率最高。",
+  "sectionSubs": {
+    "about": "编导 + 运营的双线背景，既管得住画面，也扛得起数据。",
+    "works": "悬停预览，点击进入全屏播放。竖屏 AI 短片 / 商业口播 / 信息流素材都在里面。",
+    "skills": "六个能在项目里直接兑现的能力，不是简历上的漂亮词。"
+  },
+  "styles": {
+    "profile": {
+      "intro": {
+        "0": {
+          "fs": null,
+          "color": null,
+          "b": false,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "name": {
+        "fs": 45,
+        "color": "#FF4FD8",
+        "b": true,
+        "x": 0,
+        "y": 0
+      }
+    },
+    "projects": {
+      "1": {
+        "cat": {
+          "fs": 15,
+          "color": null,
+          "b": false,
+          "x": 0,
+          "y": 0
+        }
+      }
+    }
+  }
+}
