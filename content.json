@@ -1,44 +1,44 @@
 {
-  "heroKicker": "AIGC Director & Operator",
+  "heroKicker": "Short-form Director × AI Visual",
   "heroTitle": {
-    "l1": "AI 视觉",
-    "l2": "编导作品集"
+    "l1": "短视频编导",
+    "l2": "× AI 视觉作品集"
   },
   "heroVideo": "media/01_人像与生活方式/斜光.mp4",
   "heroStats": [
     {
-      "num": "16",
-      "label": "视频作品",
-      "en": "FILMS"
-    },
-    {
       "num": "6",
-      "label": "题材覆盖",
-      "en": "GENRES"
+      "label": "年内容经验",
+      "en": "YEARS"
     },
     {
-      "num": "3",
-      "label": "年 AIGC 经验",
-      "en": "YEARS"
+      "num": "617W",
+      "label": "单条最高播放",
+      "en": "TOP VIEWS"
+    },
+    {
+      "num": "1100",
+      "label": "条累计内容",
+      "en": "CONTENTS"
     }
   ],
   "heroSlogan": {
-    "lead": "不做炫技短片，只做能被看完、能被转化的内容。",
-    "highlight": "35mm 质感",
-    "tail": "是底线，数据与信任是结果。"
+    "lead": "医疗 IP 讲转化，AI 短片讲质感。",
+    "highlight": "6 年编导",
+    "tail": "，两条线都交得出结果。"
   },
   "profile": {
     "name": "臧爽",
-    "enName": "YOUR NAME",
-    "role": "AIGC 编导 / 运营",
-    "enRole": "AIGC DIRECTOR &amp; OPERATOR",
+    "enName": "ZANG SHUANG",
+    "role": "短视频编导 × AI 视觉",
+    "enRole": "SHORT-FORM DIRECTOR × AI VISUAL",
     "avatar": "media/uploads/1790233284130-微信图片_20260924150048_148_1.png",
     "avatarAlt": "个人形象",
-    "aboutLead": "<span style=\"font-size: 46px; font-weight: 700;\">臧爽</span> <span style=\"font-size: 32px; font-weight: 700;\">AIGC 编导 / 运营</span>",
+    "aboutLead": "<span style=\"font-size: 46px; font-weight: 700;\">臧爽</span> <span style=\"font-size: 32px; font-weight: 700;\">短视频编导 × AI 视觉</span>",
     "intro": [
-      "<span style=\"color: rgb(255, 79, 216); font-size: 17px;\"><span style=\"font-weight: 700;\"><span style=\"color: rgb(255, 79, 216); font-size: 19px; font-weight: 700;\"><span style=\"color: rgb(255, 79, 216); font-size: 21px;\">做 AI 视</span></span></span></span>觉内容的第六年，测试用文本。",
-      "从选题拆解到分镜脚本，从 Midjourney 生图到可灵 / Runway 生成视频，再到剪辑调色与投放复盘，一条线跑通。",
-      "不追炫技，只认转化：素材真实可信、镜头有说服力、内容能被看完。"
+      "做内容第六年，主战场是医疗人物 IP：账号定位、选题策划、脚本创作、拍摄统筹到审片交付，全链路一个人跑得通。",
+      "代表账号「整形医生白明」单条最高播放 617W，在职期间月均产出 30 条、累计 1100 条，月稳定客资约 200 条，月成交额平均 76W+。",
+      "同时把 AIGC 嵌进日常生产：AI 宣传短片、数字人口播、分镜剧本一体化，缩短周期，也不丢画面质感。"
     ],
     "contacts": [
       {
@@ -53,55 +53,55 @@
       },
       {
         "label": "电话",
-        "value": "17886566252",
-        "link": "tel:13800000000"
+        "value": "178-8656-6252",
+        "link": "tel:17886566252"
       }
     ]
   },
   "stats": [
     {
-      "num": "16",
+      "num": "617",
+      "unit": "W",
+      "label": "单条最高播放",
+      "en": "TOP VIEWS"
+    },
+    {
+      "num": "1100",
       "unit": "条",
-      "label": "视频作品",
-      "en": "FILMS"
+      "label": "累计内容产出",
+      "en": "CONTENTS"
     },
     {
-      "num": "6",
-      "unit": "类",
-      "label": "题材覆盖",
-      "en": "GENRES"
+      "num": "76",
+      "unit": "W+",
+      "label": "月均成交额",
+      "en": "GMV / MONTH"
     },
     {
-      "num": "528",
-      "unit": "MB",
-      "label": "成片资产",
-      "en": "ASSETS"
-    },
-    {
-      "num": "—",
-      "unit": "",
-      "label": "累计播放（待补）",
-      "en": "VIEWS"
+      "num": "11.7",
+      "unit": "%",
+      "label": "留咨-成交转化",
+      "en": "CONVERSION"
     }
   ],
   "timeline": [
     {
-      "year": "2024 - 现在",
-      "title": "AIGC 视觉编导",
-      "place": "自由职业 / 内容工作室",
-      "desc": "负责 AI 短片从选题、脚本、生图到剪辑成片的全流程，输出商业口播、品牌短片与信息流素材。"
+      "year": "2023.06 - 2026.08",
+      "title": "新媒体编导",
+      "place": "北京映天下网络科技有限公司",
+      "desc": "独立操盘「整形医生白明」抖音 IP，搭出「科普打底 + 面诊转化 + 日常立人设」三层内容结构。月均产出 30 条、累计 1100 条，单条最高播放 617W，单条最高收藏/点赞比 80%；月稳定客资约 200 条，留咨-成交转化 11.7%，月成交额平均 76W+。同时项目制并行，承接品牌达人种草项目的内容策划、脚本审核与成片把控。"
     },
     {
-      "year": "2023 - 2024",
-      "title": "短视频运营",
-      "place": "（公司名占位）",
-      "desc": "搭建账号内容矩阵，跑通选题—投放—复盘闭环，沉淀出可复用的提示词与脚本模板。"
+      "year": "2021.03 - 2023.05",
+      "title": "新媒体编导",
+      "place": "北京医传天下文化传播有限公司",
+      "desc": "独立操盘「宣武医院神经外科吴浩」抖音 IP，以「耿直犀利门诊实录 + 健康硬核科普」立住「敢说真话的权威医生」人设，从门诊实录切片切入验证模型后放大为「门诊故事」系列。独立承接选题—拍摄—剪辑—发布全链路，陪跑账号 0-76W 粉，累计产出 790+ 条，单条最高 183W+，有效患者月均咨询 300+。"
     },
     {
-      "year": "2022 - 2023",
-      "title": "内容 / 编导入门",
-      "place": "（公司名占位）",
-      "desc": "从传统剪辑切入 AI 生成，建立以 35mm 质感为基准的画面审美与技术流程。"
+      "year": "2019.03 - 2020.09",
+      "title": "团队销售经理",
+      "place": "北京智美众成管理咨询有限公司",
+      "desc": "10 人销售团队负责人，主攻新客首次到店留客转化，推广轻医美及医美项目，独立开发单笔 20 万+ 高客单业绩。这段销售底子，后来变成了做内容时的转化直觉。"
     }
   ],
   "projects": [
@@ -121,8 +121,8 @@
     },
     {
       "no": "02",
-      "title": "身随鼓点&nbsp;",
-      "en": "ON BEAT」",
+      "title": "身随鼓点",
+      "en": "ON BEAT",
       "cat": "AI舞者短片",
       "file": "media/uploads/1790238026647-伞舞.mp4",
       "tags": [
@@ -145,14 +145,14 @@
         "公路片",
         "旅程叙事"
       ],
-      "desc": "",
+      "desc": "第一人称串起的旅程叙事，手持感与胶片颗粒打底，情绪靠镜头节奏走，不靠旁白堆。",
       "color": "orange",
       "size": "short"
     },
     {
       "no": "04",
-      "title": "",
-      "en": "<span style=\"font-size: 23px; color: rgb(247, 242, 255);\">FPV 视角</span>",
+      "title": "FPV 视角",
+      "en": "FPV VIEW",
       "cat": "AI FPV",
       "file": "media/uploads/1790231944910-视频节点-4.mp4",
       "tags": [
@@ -188,7 +188,7 @@
         "商业",
         "爆款信息流"
       ],
-      "desc": "",
+      "desc": "前三秒钩子 + 快节奏切帧，按投放端标准做的信息流素材样本。",
       "color": "pink",
       "size": "tall"
     },
@@ -202,104 +202,179 @@
         "口播获客",
         "客源转化"
       ],
-      "desc": "",
+      "desc": "数字人驱动的行业口播，口型与声画同步是验收重点，内容对着获客转化做。",
       "color": "pink",
       "size": "tall"
     },
     {
       "no": "09",
       "title": "自然口播",
-      "en": "**LIVE-ACTION HOST**",
+      "en": "LIVE-ACTION HOST",
       "cat": "商业口播",
       "file": "media/uploads/1790240403038-留学.mp4",
       "tags": [
         "真人出镜",
         "原生"
       ],
-      "desc": "",
+      "desc": "真人出镜的原生口播，信任感靠眼神和节奏建立，不靠话术堆砌。",
       "color": "pink",
       "size": "tall"
     },
     {
       "no": "10",
       "title": "自然访谈式",
-      "en": "**CASUAL CHAT**NEW MODULE",
+      "en": "CASUAL CHAT",
       "cat": "商业口播",
       "file": "media/uploads/1790241354284-9月8日拆迁.mp4",
       "tags": [
         "访谈式口播",
         "真人待补充"
       ],
-      "desc": "",
+      "desc": "访谈式口播，一问一答把专业内容讲成人话。",
       "color": "pink",
+      "size": "tall"
+    },
+    {
+      "no": "11",
+      "title": "安慕希",
+      "en": "AMBROSIAL",
+      "cat": "品牌商业片",
+      "file": "media/uploads/1791622540001-安慕希.mp4",
+      "tags": [
+        "品牌",
+        "商业成片",
+        "横屏"
+      ],
+      "desc": "品牌向商业成片，横屏 16:9，节奏与调性对齐品牌投放场景。",
+      "color": "orange",
+      "size": "short"
+    },
+    {
+      "no": "12",
+      "title": "信息流投放",
+      "en": "IN-FEED ADS",
+      "cat": "信息流",
+      "file": "media/uploads/1791622540002-信息流.mp4",
+      "tags": [
+        "信息流",
+        "投放",
+        "完播率"
+      ],
+      "desc": "按投放端标准做的信息流素材，前三秒钩子与完播率是验收重点。",
+      "color": "purple",
+      "size": "tall"
+    },
+    {
+      "no": "13",
+      "title": "信息流速剪",
+      "en": "QUICK FEED",
+      "cat": "信息流",
+      "file": "media/uploads/1791622540003-待命名03.mp4",
+      "tags": [
+        "信息流",
+        "快剪",
+        "钩子"
+      ],
+      "desc": "10 秒快剪版信息流，钩子前置，节奏压到最短。",
+      "color": "cream",
+      "size": "short"
+    },
+    {
+      "no": "14",
+      "title": "账号口播 01",
+      "en": "ACCOUNT TALK 01",
+      "cat": "商业口播",
+      "file": "media/uploads/1791622540004-待命名04.mp4",
+      "tags": [
+        "真人出镜",
+        "账号内容",
+        "口播"
+      ],
+      "desc": "账号日常口播成片，真人出镜，节奏按平台完播习惯走。",
+      "color": "pink",
+      "size": "tall"
+    },
+    {
+      "no": "15",
+      "title": "账号口播 02",
+      "en": "ACCOUNT TALK 02",
+      "cat": "商业口播",
+      "file": "media/uploads/1791622540005-待命名05.mp4",
+      "tags": [
+        "真人出镜",
+        "账号内容",
+        "长口播"
+      ],
+      "desc": "账号口播长版成片，信息密度更高，靠讲述推进而不是靠剪辑。",
+      "color": "purple",
       "size": "tall"
     }
   ],
   "strengths": [
     {
       "no": "01",
-      "title": "AI 视觉编导",
-      "en": "AI VISUAL DIRECTION",
-      "desc": "把 35mm 胶片质感当基准：细颗粒、高宽容度、自然动态模糊。镜头先立住，再谈生成。",
+      "title": "医疗 IP 全链路编导",
+      "en": "MEDICAL IP DIRECTION",
+      "desc": "从 0 起号到内容模型放大：账号定位、选题策划、脚本创作、拍摄统筹、审片交付，一个人跑完整条链路。",
       "tags": [
-        "Midjourney",
-        "可灵",
-        "Runway"
+        "0-1 起号",
+        "人物 IP",
+        "全链路"
       ]
     },
     {
       "no": "02",
       "title": "爆款内容策划",
       "en": "CONTENT STRATEGY",
-      "desc": "拆解对标、量化钩子结构，把选题从“感觉能火”变成有依据的判断。",
+      "desc": "抓用户痛点打磨内容钩子，用「科普 + 转化 + 立人设」的内容结构提升传播意愿，单条最高收藏/点赞比达 80%。",
       "tags": [
         "选题拆解",
-        "脚本",
+        "内容钩子",
         "数据复盘"
       ]
     },
     {
       "no": "03",
-      "title": "提示词工程",
-      "en": "PROMPT ENGINEERING",
-      "desc": "沉淀可复用的提示词模板：锁脸、锁光、锁风格，让批量产出不飘。",
+      "title": "转化与变现",
+      "en": "CONVERSION",
+      "desc": "内容对着成交做：月稳定产出客资约 200 条，留咨-成交整体转化率 11.7%，月成交额平均 76W+。",
       "tags": [
-        "锁脸",
-        "光场统一",
-        "风格模板"
+        "客资获取",
+        "成交转化",
+        "GMV"
       ]
     },
     {
       "no": "04",
-      "title": "短视频运营",
-      "en": "SHORT VIDEO OPS",
-      "desc": "从发布节奏到评论区承接，跑通内容—流量—私域的完整闭环。",
+      "title": "AI 影像生产",
+      "en": "AI VIDEO PRODUCTION",
+      "desc": "用即梦 AI、LibTV 生成视频素材与画面参考，文生视频、分镜 / 剧本一体化，独立产出 AI 宣传短片与创意短片。",
       "tags": [
-        "涨粉",
-        "完播率",
-        "私域承接"
+        "即梦 AI",
+        "LibTV",
+        "文生视频"
       ]
     },
     {
       "no": "05",
-      "title": "剪辑与调色",
-      "en": "EDIT & COLOR",
-      "desc": "曲线变速、二次构图、分层调色，节奏卡在呼吸点上而不是卡在转场上。",
+      "title": "AI 工具提效",
+      "en": "AI WORKFLOW",
+      "desc": "AI 大模型辅助脚本构思、文案润色、智能字幕与素材参考图生成，把工具嵌进日常运营，缩短内容产出周期。",
       "tags": [
-        "曲线变速",
-        "调色",
-        "音画"
+        "脚本构思",
+        "智能字幕",
+        "提效"
       ]
     },
     {
       "no": "06",
-      "title": "商业转化",
-      "en": "COMMERCIAL",
-      "desc": "口播、信息流、品牌短片都能接，交付标准对齐投放端的真实要求。",
+      "title": "剪辑与调色",
+      "en": "EDIT & COLOR",
+      "desc": "达芬奇、剪映完成剪辑、调色与字幕包装，曲线变速与二次构图，节奏卡在呼吸点上而不是卡在转场上。",
       "tags": [
-        "数字人",
-        "信息流",
-        "品牌"
+        "达芬奇",
+        "剪映",
+        "调色"
       ]
     }
   ],
@@ -307,9 +382,9 @@
     "l1": "聊聊下一条",
     "l2": "爆款短片"
   },
-  "outroNote": "长期承接 AI 竖屏短片、商业口播、信息流素材与短剧内容。带题目和预算来聊，效率最高。",
+  "outroNote": "医疗 / 大健康 IP 编导、AI 宣传短片、商业口播与信息流素材都能接。带账号和预算来聊，效率最高。",
   "sectionSubs": {
-    "about": "编导 + 运营的双线背景，既管得住画面，也扛得起数据。",
+    "about": "六年医疗人物 IP 编导，同时把 AIGC 做成日常生产力。",
     "works": "悬停预览，点击进入全屏播放。竖屏 AI 短片 / 商业口播 / 信息流素材都在里面。",
     "skills": "六个能在项目里直接兑现的能力，不是简历上的漂亮词。"
   },
