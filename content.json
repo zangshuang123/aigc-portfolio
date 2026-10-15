@@ -202,34 +202,6 @@
       "size": "tall"
     },
     {
-      "no": "09",
-      "title": "自然口播",
-      "en": "LIVE-ACTION HOST",
-      "cat": "商业口播",
-      "file": "media/uploads/1790240403038-留学.mp4",
-      "tags": [
-        "真人出镜",
-        "原生"
-      ],
-      "desc": "真人出镜的原生口播，信任感靠眼神和节奏建立，不靠话术堆砌。",
-      "color": "pink",
-      "size": "tall"
-    },
-    {
-      "no": "10",
-      "title": "自然访谈式",
-      "en": "CASUAL CHAT",
-      "cat": "商业口播",
-      "file": "media/uploads/1790241354284-9月8日拆迁.mp4",
-      "tags": [
-        "访谈式口播",
-        "真人待补充"
-      ],
-      "desc": "访谈式口播，一问一答把专业内容讲成人话。",
-      "color": "pink",
-      "size": "tall"
-    },
-    {
       "no": "11",
       "title": "安慕希",
       "en": "AMBROSIAL",
